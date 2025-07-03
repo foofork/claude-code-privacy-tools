@@ -1,4 +1,4 @@
-# Claude Code Privacy and Developer Tools
+# Claude Code Privacy and Developer Setup Scripts
 
 This repository provides simple shell scripts designed to enhance privacy and control when working with Claude Code, especially concerning data sharing and commit message hygiene in Git.
 
