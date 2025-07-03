@@ -20,14 +20,6 @@ This repository provides simple shell scripts designed to enhance privacy and co
 * **Aggressive vs. Selective Cleaning:** Offers options to either remove all AI-related lines or just specific ones (like "Co-authored-by:").
 * **Repository-Specific:** Configures the cleaning for the Git repository it's run in.
 
-## 🛠️ Prerequisites
-
-* **`jq`**: A lightweight and flexible command-line JSON processor.
-    * On macOS: `brew install jq`
-    * On Debian/Ubuntu: `sudo apt-get install jq`
-    * On Fedora/RHEL: `sudo dnf install jq`
-* **`git`**: For using the commit hook script.
-
 ## 📦 Usage
 
 ### 1. Clone the Repository (or Download)
