@@ -22,10 +22,11 @@ This repository provides simple shell scripts designed to enhance privacy and co
 
 ## 📦 Usage
 
-### 1. Clone the Repository (or Download)
+### 1. Download (Recommended) or Clone.
 
-First, get the scripts onto your machine:
 
 ```bash
-git clone [https://github.com/](https://github.com/)<YourGitHubUsername>/claude-code-privacy-tools.git
+git clone https://github.com/foofork/claude-code-privacy-tools.git
 cd claude-code-privacy-tools
+./setup_claude_privacy.sh
+./setup_commit_hook.sh
